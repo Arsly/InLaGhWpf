@@ -1,6 +1,6 @@
 # Grasshopper 外掛元件安裝說明  
   
-1.打開Rhino，在指令的地方輸入GrasshopperDeveloperSettings -> Add Folder -> 選擇檔案Gha、pdb所在的檔案路徑  
+1.打開Rhino，在指令的地方輸入GrasshopperDeveloperSettings -> Add Folder -> 選擇檔案Gha、pdb所在的檔案路徑 (檔案路徑 -> .\MyProject3\MyProject3\bin)
 2.設定完成後，重啟Rhino，打開Grashopper  
 3.在IN.LA的元件裡面會有Winform  
 4.把Winform元件拖入Grasshopper  
@@ -19,4 +19,3 @@
 1.需安裝Visual Studio 2019 、 Rhino 6.0  
 2.介面所在位置 -> .\MyProject3\View\MainWindow.xaml  
 3.介面程式所在位置 -> .\MyProject3\View\MainWindow.xaml.cs  
-
