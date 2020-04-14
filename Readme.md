@@ -1,6 +1,7 @@
 # Grasshopper 外掛元件安裝說明  
   
-1.打開Rhino，在指令的地方輸入GrasshopperDeveloperSettings -> Add Folder -> 選擇檔案Gha、pdb所在的檔案路徑 (檔案路徑 -> .\MyProject3\MyProject3\bin)
+1.打開Rhino，在指令的地方輸入GrasshopperDeveloperSettings -> Add Folder ->  
+選擇檔案Gha、pdb所在的檔案路徑 (檔案路徑 -> .\MyProject3\MyProject3\bin)  
 2.設定完成後，重啟Rhino，打開Grashopper  
 3.在IN.LA的元件裡面會有Winform  
 4.把Winform元件拖入Grasshopper  
